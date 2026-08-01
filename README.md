@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/wompwomp30oct/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/wompwomp30oct/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/wompwomp30oct/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
