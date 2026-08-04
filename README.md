@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/wompwomp30oct/LeetCode-Solution/tree/master/0006-zigzag-conversion) |
 | [0205-isomorphic-strings](https://github.com/wompwomp30oct/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
